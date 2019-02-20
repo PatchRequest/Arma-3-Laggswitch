@@ -13,9 +13,8 @@ except:
 	os.system('python -m pip install pyHook.whl')
 	from pyHook import HookManager
 	
-os.system("title Arma3 Lagswitch | Made by github.com/Z01Ntasu")
-os.system("cls")
-print("Made by github.com/Z01Ntasu")
+
+print("Made by github.com/RiebelDaniel")
 print("Press 5 on the Keyboard to generate the required rule(just needed on first start)")
 print("Press 4 on the Keyboard to activate and deactivate the Laggswitch")
 class Keystroke_Watcher(object):
